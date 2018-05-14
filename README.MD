@@ -13,11 +13,11 @@ e será utilizada segmentação de imagem por limiar para obter a quanti-
 dade de pixels de cada fase presentes na micrografia.
 
 ### Entradas:
-*Micrografia com apenas duas fases
-*Nome da Fase Clara
-*Nome da Fase Escura
-*Valor Limiar
-*Bordas
+* Micrografia com apenas duas fases
+* Nome da Fase Clara
+* Nome da Fase Escura
+* Valor Limiar
+* Bordas
 
 ### Saída:
 * Percentual de cada fase na amostra.
